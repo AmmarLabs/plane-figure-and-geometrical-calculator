@@ -14,7 +14,7 @@ Sebelum menjalankan program ini, pastikan sistem kamu sudah terpasang:
 - **Compiler C++** (GCC / MinGW v11.0+)
 - **Terminal / Command Prompt** (Windows)
 
-## Cara Menginstal dan Menjalankan
+## 📥 Cara Menginstal dan Menjalankan
 
 1. **Clone repository ini:**
     ```bash
@@ -26,10 +26,12 @@ Sebelum menjalankan program ini, pastikan sistem kamu sudah terpasang:
     `./a`
 
 ## 📂 Struktur Proyek
+```text
 plane-figure-and-geometrical-calculator/
-├── main.cpp        # Kode sumber utama aplikasi
-├── README.md       # Dokumentasi proyek
-└── .gitignore      # Berkas pengecualian Git
+├── main.cpp
+├── README.md
+└── .gitignore
+```
 
 ## 👤 Penulis
 - [Ammar] - Initial Work - https://www.google.com/search?q=https://github.com/AmmarLabs
